@@ -1,0 +1,29 @@
+{
+  "name": "minigame",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"open localhost:8080\" && C:/xampp/htdocs/minigame/node_modules/.bin/browservefy index.js 8080 -- -d"
+  },
+  "author": "Selene",
+  "license": "ISC",
+  "devDependencies": {
+    "atlaspack": "^0.2.7",
+    "browservefy": "0.0.10",
+    "ecstatic": "^1.2.0",
+    "extend": "^3.0.0",
+    "opaque": "0.0.1",
+    "tic": "^1.0.0",
+    "voxel": "^0.5.0",
+    "voxel-debris": "0.0.4",
+    "voxel-engine": "^0.20.2",
+    "voxel-fakeao": "^0.1.1",
+    "voxel-fly": "^0.1.2",
+    "voxel-forest": "0.0.1",
+    "voxel-highlight": "0.0.10",
+    "voxel-perlin-terrain": "^1.0.0",
+    "voxel-player": "^0.1.0",
+    "voxel-walk": "0.0.5"
+  }
+}
